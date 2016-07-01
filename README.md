@@ -1,1 +1,1 @@
-# Jest-MVP
+This is Yuan's toggling of the jest-mvp app that was created by God matthew. As of now, I have changed the styles in the startview; feel free to check them out! In the future, I will like to try and perhaps implement some parts of Golang and MySQL.
